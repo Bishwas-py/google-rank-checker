@@ -15,3 +15,5 @@ python3 -m pip install -r requirements.txt
 Run `main.py`, it'll ask for two input `keyword` and `domain`, give it to it.
 And it'll return you rank data in `data` directory. Inside data directory,
 check a directory named with the domain name you've given.
+
+![Rank checked for a keyword and domain](data/webmatrices.com/access-to-the-path-%27c%3A%5Cprogramdata%5Cchocolatey%5Clib-bad%27-is-denied./page.png)
